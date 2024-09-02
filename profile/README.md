@@ -1,12 +1,19 @@
-## Hi there 👋
+# BITRICS
+### Bit + Metrics
+가상화폐를 대표하는 Bitcoin + 성과를 측정하는 기준 Metrics
 
-<!--
 
-**Here are some ideas to get you started:**
+<br />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🎬 VIDEO
+<br />
+
+## 👥 TEAM
+### FE ㅣ 이채민, 이세연, 김송하
+### BE ㅣ 서승주, 이세연
+<br />
+
+## 🔗 Links
+### [Notion](https://www.notion.so/zzoo0123/Bitrics-59dcccba01df40219e1fa07a09821a44)
+### [Figma](https://www.figma.com/design/0fhwjxeVqOzQDHnBQXKFzQ/hk-BITRICS?node-id=0-1&node-type=CANVAS&t=codCjtbYFjFiZbr2-0)
+### [ERD](https://www.erdcloud.com/d/fZzSJc3PLnackaoDC)
