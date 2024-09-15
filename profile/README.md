@@ -1,12 +1,12 @@
 # BITRICS
 ### Bit + Metrics
-가상화폐를 대표하는 Bitcoin + 성과를 측정하는 기준 Metrics
+**가상화폐를 대표하는 Bitcoin + 성과를 측정하는 기준 Metrics**
 
 <br />
 
 ## 👥 TEAM
 ### FE ㅣ 이채민, 이세연, 김송하
-### BE ㅣ 서승주
+### BE, PM ㅣ 서승주
 
 <br />
 
